@@ -19,6 +19,7 @@ This repository contains various GPS-related tools and demos for location tracki
 ## Requirements
 
 - Node.js v14+
+- Rails v6+
 - GPS hardware (for physical testing)
 
 ## License
